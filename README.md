@@ -1,5 +1,6 @@
 # tuturial node.js
 Esse será um tuturial de como executar o arquivo index.js
+
 1º Abrir a maquina virtual ja com o node.js baixado
 2° Abrir o terminal e digitar "source ./nodejs-env/bin/activate" para ativar o node js
 3º Digite "sudo nano index.js" 
